@@ -9,11 +9,29 @@ public class Mixer {
     private double weight = 0.0;
     private String size = "compact";
     private double price = 0;
+    private boolean smart = true;
+    private int recipeNumber = 0;
 
+    /**
+     *
+     * @return is it a smart Mixer ( can connect to internet etc.)
+     */
+    public boolean isSmart(){
+        return smart;
+    }
+
+    /**
+     *
+     * @return recepies number stored in memory
+     */
+    public int getRecipeNumber(){
+        return recipeNumber;
+    }
     /**
      *
      * @return brand name
      */
+
     public String getBrand() {
         return brand;
     }
@@ -68,6 +86,17 @@ public class Mixer {
 
     /**
      *
+     * @param smart - capable to connect with the internet and has memory
+     */
+    public void setSmart(boolean smart){
+        this.smart = smart;
+    }
+    public void setRecipeNumber(int recipeNumber){
+        this.recipeNumber = recipeNumber;
+    }
+
+    /**
+     *
      * @param power setting a value for the power in [W]
      */
     public void setPower(int power) {
@@ -111,7 +140,7 @@ public class Mixer {
      * @return String with all infomration about the object
      */
     public String toString(){
-        return "[" +getClass().getName()+" " + getBrand() +"]"+ "\n" +" wire: "+isWire()+ "\n" +" power: "+getPower()+"\n" +" weight: "+getWeight()+"\n" +" size: "+getSize()+"\n" +" price: "+getPrice();
+        return "[" +getClass().getName()+" " + getBrand() +"]"+ "\n" +" wire: "+isWire()+ "\n" +" power: "+getPower()+"\n" +" weight: "+getWeight()+"\n" +" size: "+getSize()+"\n" +" price: "+getPrice()+"\n"+" recipes stored: "+ getRecipeNumber();
     }
     //public void working(String brand){
         //System.out.println(getClass().getName()+ " "+ getBrand()+ " is working a power of  "+ getPower()+"W.");
@@ -154,7 +183,7 @@ public class Mixer {
     }
     @Override
     public int hashCode() {
-        return Objects.hash(getPrice(), isWire(), getBrand(), getWeight(), getSize(), getPower());
+        return Objects.hash(getPrice(), isWire(), getBrand(), getWeight(), getSize(), getPower(), getRecipeNumber(), isSmart());
     }
 
 
@@ -167,6 +196,8 @@ public class Mixer {
         mixer1.setWeight(1.55);
         mixer1.setSize("compact");
         mixer1.setPrice(90.99);
+        mixer1.setSmart(false);
+        mixer1.setRecipeNumber(0);
 
 
         Mixer mixer2 = new Mixer();
@@ -176,6 +207,8 @@ public class Mixer {
         mixer2.setSize("compact");
         mixer2.setWeight(1.00);
         mixer2.setPrice(169.99);
+        mixer2.setSmart(true);
+        mixer2.setRecipeNumber(100);
 
         Mixer mixer3 = new Mixer();
         mixer3.setBrand("Bosh");
@@ -184,6 +217,8 @@ public class Mixer {
         mixer3.setWeight(2.25);
         mixer3.setSize("very small");
         mixer3.setPrice(98.99);
+        mixer3.setSmart(false);
+        mixer3.setRecipeNumber(0);
 
         Mixer mixer4 = new Mixer();
         mixer4.setBrand("Bosh");
@@ -192,6 +227,8 @@ public class Mixer {
         mixer4.setWeight(2.25);
         mixer4.setSize("very small");
         mixer4.setPrice(98.99);
+        mixer4.setSmart(false);
+        mixer4.setRecipeNumber(0);
 
         System.out.println(mixer1.toString()+ "\n"  );
         System.out.println(mixer2.toString()+ "\n" );
