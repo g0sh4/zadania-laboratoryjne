@@ -3,8 +3,12 @@ import java.util.Map;
 import java.util.Scanner;
 
 
-public class Zadanie1 {
-
+public class Main {
+    /**
+     *
+     * @param input - Scanner input - enables to collect the information given  by the user (password, username)
+     * @param inputmap - saves information given by the user
+     */
     public static void input(Scanner input, Map inputmap){
         String username = "";
         String password = "";
@@ -26,6 +30,11 @@ public class Zadanie1 {
         }
     }
 
+    /**
+     *
+     * @param input - Scanner input - enables to collect the information given  by the user (username)
+     * @param inputmap - collection of data given in input()
+     */
     public static void getPassword(Scanner input, Map inputmap){
         System.out.println("\n\nEnter the name of the user whose password you want to get: ");
         String enteredName = input.nextLine();
@@ -37,6 +46,11 @@ public class Zadanie1 {
         }
     }
 
+    /**
+     *
+     * @param map - collection of data given by the user in input()
+     * gives us a complete list of users
+     */
     public static void getUsers(Map map){
         System.out.println("\nUSERS: ");
         map.forEach((k,v) -> System.out.print(k+" / "));
