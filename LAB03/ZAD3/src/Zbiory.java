@@ -39,16 +39,16 @@ public class Zbiory {
         }
     return wynikSumyZbiorow;
     }
-    //ten element niestety mi nie niedziala poprawnie
+
     public Zbiory roznicaZbiorow(Zbiory dane){
         Zbiory wynikRoznicyZbiorow = new Zbiory();
         wynikRoznicyZbiorow = this;
         for(int liczba: dane.zbiory){
             if(this.zbiory.contains(liczba)){
-                wynikRoznicyZbiorow.zbiory.remove(liczba);
+                dane.zbiory.remove(liczba);
             }
         }
-        return wynikRoznicyZbiorow;
+        return dane;
     }
     public Zbiory czescWspolna(Zbiory dane){
         Zbiory wynikCzesciWspolne = new Zbiory();
