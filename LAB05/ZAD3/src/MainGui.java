@@ -2,7 +2,7 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
-
+import java.io.File;
 
 public class MainGui extends JFrame {
 
@@ -62,20 +62,19 @@ public class MainGui extends JFrame {
             fileAnalyzer.analyzerWithSubfolders(path);
             files = fileAnalyzer.getFilenumber();
             folders = fileAnalyzer.getSubfoldersNumber();
-           //System.out.println("Katalog "+ path+" zawiera "+fileAnalyzer.getFilenumber() +
-                    //" podfolderów i "+ fileAnalyzer.getSubfoldersNumber()+" plików.");
             informacjaLabel.setText("<html>Katalog "+ path+" zawiera "+fileAnalyzer.getFilenumber() +
                     " podfolderów i "+ fileAnalyzer.getSubfoldersNumber()+" plików.</html>");
 
         }else if(e.getSource() == wybierzButton){
             JFileChooser choose = new JFileChooser();
+            choose.setCurrentDirectory(new File("."));
             choose.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
+            choose.setAcceptAllFileFilterUsed(false);
 
             if (choose.showOpenDialog(panel) == JFileChooser.APPROVE_OPTION) {
-                sciezkaField.setText(choose.getCurrentDirectory().toString());
+                sciezkaField.setText(choose.getSelectedFile().toString());
                 path = choose.getCurrentDirectory().toString();
             }
-
         }
     }
 
@@ -95,7 +94,6 @@ public class MainGui extends JFrame {
         position.fill = GridBagConstraints.HORIZONTAL;
         FileAnalyzer fileAnalyzer = new FileAnalyzer(path);
         fileAnalyzer.analyzerWithSubfolders(path);
-
         informacjaLabel = new JLabel("Wybierz katalog do analizy ... ");
         panel.add(informacjaLabel,position);
 
@@ -129,6 +127,8 @@ public class MainGui extends JFrame {
     }
     public static void main(String[] args){
         MainGui GUI = new MainGui();
+
+
 
     }
 }
