@@ -1,12 +1,10 @@
-
-
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
 public class LineCalculator {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
 
 
         if(args.length>1){
@@ -26,16 +24,9 @@ public class LineCalculator {
                 e.printStackTrace();
             }
 
-
         }
         else{
             System.out.println("Too few arguments were given.");
         }
-
-
-
-
-
-
     }
 }
