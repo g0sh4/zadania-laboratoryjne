@@ -12,7 +12,7 @@ public class CatalogAnalyzer {
                 }else if(comparator.getFilesList2().size()==0){
                     System.out.println("No files in catalog 2");
                 }
-                for(int i=0; i<comparator.getCouter(); i++){
+                for(int i = 0; i<comparator.getCounter(); i++){
                     System.out.println(comparator.getMatchingComment1(i));
                     System.out.println(comparator.getMatchingComment2(i)+"\n");
                 }
