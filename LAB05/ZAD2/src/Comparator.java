@@ -17,10 +17,10 @@ public class Comparator {
      */
     private final String pathName1;
     private final String pathName2;
+    private int counter;
     List<String> filesList1 = new ArrayList<>();
     List<String> filesList2 = new ArrayList<>();
     List<Integer> fileCounter = new ArrayList<>();
-    private int counter;
     List<String> pathList1 = new ArrayList<>();
     List<String> pathList2 = new ArrayList<>();
     Map<String, String> dictionary1 = new HashMap<>();
@@ -34,6 +34,9 @@ public class Comparator {
         pathName2=path2;
     }
 
+    /**
+     analyzes the content and writes to dictionaries
+     */
     public void listFiles(){
         try{
             File file1 = new File(pathName1);
@@ -78,6 +81,9 @@ public class Comparator {
         return filesList2;
     }
 
+    /**
+     analysis of the contents of folders; enables a clear record of the results
+     */
     public void compareFiles(){
         String tempName="";
         for (String s : filesList1) {
@@ -95,14 +101,28 @@ public class Comparator {
         return counter;
     }
 
+    /**
+     *
+     * @param i - in for loop; index of element
+     * @return - enable us to get elements from stored list of comments
+     */
     public String getMatchingComment1(int i) {
         return matchingComment1.get(i);
     }
 
+    /**
+     *
+     * @param i - in for loop; index of element
+     * @return - enable us to get elements from stored list of comments
+     */
     public String getMatchingComment2(int i) {
         return matchingComment2.get(i);
     }
 
+    /**
+     * @param i - in for loop; index of element
+     * @return - number of not handled files from catalog
+     */
     public Integer notMatchingFiles(int i){
         fileCounter.add(getFilesList1().size() - counter);
         fileCounter.add(getFilesList2().size() - counter);

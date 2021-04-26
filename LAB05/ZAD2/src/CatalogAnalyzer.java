@@ -26,7 +26,5 @@ public class CatalogAnalyzer {
         }else {
             System.out.println("Too few arguments were given.");
         }
-
-
     }
 }
