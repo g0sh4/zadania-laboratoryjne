@@ -73,7 +73,7 @@ public class MainGui extends JFrame {
 
             if (choose.showOpenDialog(panel) == JFileChooser.APPROVE_OPTION) {
                 sciezkaField.setText(choose.getSelectedFile().toString());
-                path = choose.getCurrentDirectory().toString();
+                path = choose.getSelectedFile().toString();
             }
         }
     }
