@@ -18,7 +18,7 @@ public class Gui extends JPanel{
 
     public Gui(){
         JPanel panel = new JPanel( );
-        panel.setLayout(new GridLayout(1,2));
+        panel.setLayout(new GridLayout(1,3));
         JButton filtrujButton = new JButton("Filtruj");
         filtrujButton.addActionListener(this::actionPerformed);
         textField = new JTextField(7);
