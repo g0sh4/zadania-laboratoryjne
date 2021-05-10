@@ -1,0 +1,139 @@
+﻿Key;Item Type;Publication Year;Author;Title;Publication Title;ISBN;ISSN;DOI;Date
+HUTBKGWX;journalArticle;1982;Wood, Graeme A;Data smoothing and differentiation procedures in biomechanics;Exercise and sport sciences reviews;;;;1982
+C974VGPA;journalArticle;2012;"Hu, Bang; Lu, Shuai";Numerical differentiation by a Tikhonov regularization method based on the discrete cosine transform;Applicable Analysis;;;;2012
+8BPKAYYQ;journalArticle;2006;"Lu, Shuai; Pereverzev, Sergei";Numerical differentiation from a viewpoint of regularization theory;Mathematics of computation;;;;2006
+99EJP5JF;journalArticle;2014;"Knowles, Ian; Renka, Robert J";Methods for numerical differentiation of noisy data;Electron. J. Differ. Equ;;;;2014
+QZXPCEGN;journalArticle;2002;"Rix, Antony W.; Hollier, Michael P.; Hekstra, Andries P.; Beerends, John G.";Perceptual Evaluation of Speech Quality (PESQ) The New ITU Standard for End-to-End Speech Quality Assessment Part I–Time-Delay Compensation;Journal of the Audio Engineering Society;;;;2002
+MJHRCX3Z;conferencePaper;2002;"Sarris, John C.; Dalianis, Sotirios A.; Cambourakis, George E.";Non-stationary filtering methods for audio signals;Audio Engineering Society Conference: 21st International Conference: Architectural Acoustics and Sound Reinforcement;;;;2002
+YSJVUF6K;conferencePaper;2002;"Semyonov, Edward V.; Lipshitz, Stanley P.; Vanderkooy, John";Noise Shaping in Digital Test-Signal Generation;Audio Engineering Society Convention 113;;;;2002
+KUT2HU28;journalArticle;2003;"Tan, Chin-Tuan; Moore, Brian CJ; Zacharov, Nick";The effect of nonlinear distortion on the perceived quality of music and speech signals;Journal of the Audio Engineering Society;;;;2003
+HHMPFPZZ;journalArticle;1999;"Khan, Ishtiaq Rasool; Ohba, Ryoji";Closed-form expressions for the finite difference approximations of first and higher derivatives based on Taylor series;Journal of Computational and Applied Mathematics;;03770427;10.1016/S0377-0427(99)00088-6;1999-07
+FBG97Q34;journalArticle;2018;"Wagner, Jakub; Mazurek, Paweł; Miękina, Andrzej; Morawski, Roman Z.";Regularised differentiation of measurement data in systems for monitoring of human movements;Biomedical Signal Processing and Control;;1746-8094;10.1016/j.bspc.2018.02.010;2018-05-01
+7F5XHTG5;journalArticle;1941;Bickley, W. G.;Formulae for Numerical Differentiation;The Mathematical Gazette;;0025-5572;10.2307/3606475;1941
+3LE4H3A8;book;1984;Groetsch, C. W.;The theory of Tikhonov regularization for Fredholm equations of the first kind;;978-0-273-08642-0;;;1984
+S3GQL3IV;book;1977;"Tikhonov, A. N.; Arsenin, V. I︠A︡";Solutions of ill-posed problems;;978-0-470-99124-4;;;1977
+3W74DU5U;journalArticle;2003;Eilers, Paul H. C.;A Perfect Smoother;Analytical Chemistry;;0003-2700;10.1021/ac034173t;2003-07-01
+KR9HA4JW;journalArticle;1978;"Craven, Peter; Wahba, Grace";Smoothing noisy data with spline functions;Numerische Mathematik;;0945-3245;10.1007/BF01404567;1978-12-01
+SIC3FKNZ;journalArticle;2007;Hansen, Per Christian;Regularization Tools version 4.0 for Matlab 7.3;Numerical Algorithms;;1572-9265;10.1007/s11075-007-9136-9;2007-10-01
+43ZNH5GT;journalArticle;1992;Hansen, Per Christian;Analysis of Discrete Ill-Posed Problems by Means of the L-Curve;SIAM Review;;0036-1445;10.1137/1034115;1992-12-01
+JKB8C55Q;journalArticle;2015;"Li, Ming; Wang, Yujiao; Ling, Leevan";Numerical Caputo Differentiation by Radial Basis Functions;Journal of Scientific Computing;;1573-7691;10.1007/s10915-014-9857-6;2015-01-01
+6XQN66JE;journalArticle;2012;"Dmitriev, V. I.; Ingtem, Zh. G.";Numerical differentiation using spline functions;Computational Mathematics and Modeling;;1573-837X;10.1007/s10598-012-9139-9;2012-07-01
+NFIKZ3MP;journalArticle;2018;"Gao, Wenwu; Zhang, Ran";Multiquadric trigonometric spline quasi-interpolation for numerical differentiation of noisy data: a stochastic perspective;Numerical Algorithms;;1572-9265;10.1007/s11075-017-0313-1;2018-01-01
+G22FDQC7;book;1990;Wahba, Grace;Spline models for observational data;;978-0-89871-244-5;;;1990
+EE4B6NUV;journalArticle;2012;"Hao, D. N.; Chuong, L. H.; Lesnic, D.";Heuristic regularization methods for numerical differentiation;Computers & Mathematics with Applications;;0898-1221;10.1016/j.camwa.2011.11.047;2012-02-01
+F4DM385J;journalArticle;1964;"Savitzky, Abraham.; Golay, M. J. E.";Smoothing and Differentiation of Data by Simplified Least Squares Procedures.;Analytical Chemistry;;0003-2700;10.1021/ac60214a047;1964-07-01
+7QTHRQGU;journalArticle;2011;Chartrand, Rick;Numerical Differentiation of Noisy, Nonsmooth Data;ISRN Applied Mathematics;;;;2011-05-11
+GXHBH88K;journalArticle;2015;Mao, Heng;ADAPTIVE CHOICE OF THE REGULARIZATION PARAMETER IN NUMERICAL DIFFERENTIATION;Journal of Computational Mathematics;;0254-9409;;2015
+QQJT63ZB;journalArticle;2014;"Cheng, Jin; Hofmann, Bernd; Lu, Shuai";The index function and Tikhonov regularization for ill-posed problems;Journal of Computational and Applied Mathematics;;0377-0427;10.1016/j.cam.2013.09.035;2014-08-01
+7WZUQDQ2;journalArticle;2012;"Hu, Bang; Lu, Shuai";Numerical differentiation by a Tikhonov regularization method based on the discrete cosine transform;Applicable Analysis;;0003-6811;10.1080/00036811.2011.598862;2012-04-01
+9Z7I62PK;journalArticle;1995;"Knowles, Ian; Wallace, Robert";A variational method for numerical differentiation;Numerische Mathematik;;0945-3245;10.1007/s002110050111;1995-03-01
+E8D686BI;journalArticle;1989;Murio, D.A.;The mollification method and the numerical solution of the inverse heat conduction problem by finite differences;Computers & Mathematics with Applications;;0898-1221;10.1016/0898-1221(89)90022-9;1989-01-01
+VDM97AZZ;journalArticle;1981;"Ramm, A. G.; Meister, E.";Stable solutions of some ill-posed problems;Mathematical Methods in the Applied Sciences;;1099-1476;https://doi.org/10.1002/mma.1670030125;1981
+T8MG57RF;book;1968;"Ramm, Alexander G.; Alexandra; Smirnova, B.";On numerical differentiation;;;;;1968
+2H7NPEKC;journalArticle;2017;"Mathlouthi, Yosra; Mitiche, Amar; Ayed, Ismail Ben";Regularised differentiation for image derivatives;IET Image Processing;;1751-9667;https://doi.org/10.1049/iet-ipr.2016.0369;2017
+2Z8H8GNS;journalArticle;2010;Stickel, Jonathan J.;Data smoothing and numerical differentiation by a regularization method;Computers & Chemical Engineering;;0098-1354;10.1016/j.compchemeng.2009.10.007;2010-04-05
+DRD2XTPF;journalArticle;1971;Cullum, Jane;Numerical Differentiation and Regularization;SIAM Journal on Numerical Analysis;;0036-1429;;1971
+D825345X;journalArticle;2001;"Hanke, Martin; Scherzer, Otmar";Inverse Problems Light: Numerical Differentiation;The American Mathematical Monthly;;0002-9890;10.1080/00029890.2001.11919778;2001-06-01
+2M94FSDD;journalArticle;2010;Neidinger, Richard D.;Introduction to Automatic Differentiation and MATLAB Object-Oriented Programming;SIAM Review;;0036-1445;10.1137/080743627;2010-01-01
+FNWE8MN7;book;1981;Rall, Louis B.;Automatic differentiation: techniques and applications;;978-3-540-10861-0;;;1981
+TETACFX4;book;2002;;Automatic differentiation of algorithms: from simulation to optimazation;;978-0-387-95305-2;;;2002
+XUPMNSCG;book;2008;"Griewank, Andreas; Walther, Andrea";Evaluating Derivatives, Principles and Techniques of Algorithmic Differentiation;;978-0-89871-659-7;;;2008-01-01
+3K9WVFBK;journalArticle;2018;"Baydin, Atilim Gunes; Pearlmutter, Barak A.; Radul, Alexey Andreyevich; Siskind, Jeffrey Mark";Automatic differentiation in machine learning: a survey;arXiv:1502.05767 [cs, stat];;;;2018-02-05
+ED6PJS49;conferencePaper;2008;"Chien-Cheng Tseng; Su-Ling Lee";Design of second order digital differentiator using Richardson extrapolation and fractional delay;2008 IEEE International Symposium on Circuits and Systems;;;10.1109/ISCAS.2008.4541619;2008-05
+WUXFV5AA;book;2003;Sidi, Avram;Practical Extrapolation Methods: Theory and Applications;;978-0-521-66159-1;;;2003
+3JTW2ZMS;journalArticle;2018;"Nikolovski, Filip; Stojkovska, Irena";Complex-step derivative approximation in noisy environment;;;;10.1016/j.cam.2017.05.046;2018-01-01
+UF3UNUKW;journalArticle;1970;Sylvester, P.;Numerical Formation of Finite-Difference Operators (Correspondence);IEEE Transactions on Microwave Theory and Techniques;;1557-9670;10.1109/TMTT.1970.1127342;1970-10
+V4CDEE9K;journalArticle;2017;"Hosseini, Mahdi S.; Plataniotis, Konstantinos N.";Finite Differences in Forward and Inverse Imaging Problems: MaxPol Design;SIAM Journal on Imaging Sciences;;;10.1137/17M1118452;2017-01-01
+XS56PN2Z;journalArticle;2017;"Hosseini, M. S.; Plataniotis, K. N.";Derivative Kernels: Numerics and Applications;IEEE Transactions on Image Processing;;1941-0042;10.1109/TIP.2017.2713950;2017-10
+6HVZ74N8;journalArticle;1997;"Moller, T.; Machiraju, R.; Mueller, K.; Yagel, R.";Evaluation and design of filters using a Taylor series expansion;IEEE Transactions on Visualization and Computer Graphics;;1941-0506;10.1109/2945.597800;1997-04
+V7XMZDH3;journalArticle;2000;"Khan, Ishtiaq Rasool; Ohba, Ryoji";New finite difference formulas for numerical differentiation;Journal of Computational and Applied Mathematics;;0377-0427;10.1016/S0377-0427(99)00358-1;2000-12-30
+26UCK2WA;journalArticle;1967;Grabar, L. P.;Numerical differentiation by means of Chebyshev polynomials orthonormalized on a system of equidistant points;USSR Computational Mathematics and Mathematical Physics;;0041-5553;10.1016/0041-5553(67)90127-9;1967-01-01
+3I7KWV7X;journalArticle;2005;Li, Jianping;General explicit difference formulas for numerical differentiation;Journal of Computational and Applied Mathematics;;0377-0427;10.1016/j.cam.2004.12.026;2005-11-01
+K597WEVP;journalArticle;2013;"Zhang, Yunong; Chou, Yao; Chen, Jinhao; Zhang, Zhijun; Xiao, Lin";Presentation, error analysis and numerical experiments on a group of 1-step-ahead numerical differentiation formulas;Journal of Computational and Applied Mathematics;;0377-0427;10.1016/j.cam.2012.09.011;2013-02-01
+FXAMX33B;journalArticle;2012;"Hassan, H. Z.; Mohamad, A. A.; Atteia, G. E.";An algorithm for the finite difference approximation of derivatives with arbitrary degree and order of accuracy;Journal of Computational and Applied Mathematics;;0377-0427;10.1016/j.cam.2011.12.019;2012-04-01
+RN9VB4SZ;journalArticle;1979;"Dokken, T.; Lyche, T.";A divided difference formula for the error in Hermite interpolation;BIT Numerical Mathematics;;1572-9125;10.1007/BF01931270;1979-12-01
+2PX8HN6D;journalArticle;2002;Selesnick, I. W.;Maximally flat low-pass digital differentiator;IEEE Transactions on Circuits and Systems II: Analog and Digital Signal Processing;;1558-125X;10.1109/TCSII.2002.1013869;2002-03
+2J6PFK5Z;journalArticle;1998;Fornberg, Bengt;Classroom Note:Calculation of Weights in Finite Difference Formulas;SIAM Review;;0036-1445;10.1137/S0036144596322507;1998-01-01
+TR4A5BNA;journalArticle;1988;Fornberg, Bengt;Generation of finite difference formulas on arbitrarily spaced grids;Mathematics of Computation;;0025-5718, 1088-6842;10.1090/S0025-5718-1988-0935077-0;1988
+87WNJKCW;journalArticle;2001;"Ramm, Alexander G.; Smirnova, Alexandra B.";On Stable Numerical Differentiation;Mathematics of Computation;;0025-5718;;2001
+MJN4JHQS;journalArticle;2006;"Lu, Shuai; Pereverzev, Sergei V.";Numerical Differentiation from a Viewpoint of Regularization Theory;Mathematics of Computation;;0025-5718;;2006
+QJIDHWJ3;book;1996;Trefethen, Lloyd N.;Finite Difference and Spectral Methods for Ordinary and Partial Differential Equations;;;;;1996
+T6VA6CQB;book;1979;Jordan, Charles;Calculus of finite differences;;978-0-8284-0033-6;;;1979
+VPMK9A3G;book;1987;Hildebrand, Francis Begnaud;Introduction to numerical analysis;;978-0-486-65363-1;;;1987
+M3XQHTPN;book;2004;"Gerald, Curtis F.; Wheatley, Patrick O.";Applied numerical analysis;;978-0-321-13304-5;;;2004
+36FEM4NS;book;1960;Collatz, Lothar;The Numerical Treatment of Differential Equations;;978-3-642-88434-4 978-3-642-88436-8;;;1960
+Z8IMG6X9;book;2004;"Mathews, John H.; Fink, Kurtis D.";Numerical methods using MATLAB;;978-0-13-065248-5;;;2004
+LHD5LUVV;book;1996;Krishnamurti, T. N.;An introduction to numerical weather prediction techniques;;978-0-8493-8910-8;;;1996
+EDLVI887;book;2011;"Kreyszig, Erwin; Kreyszig, Herbert; Norminton, E. J.";Advanced engineering mathematics;;978-0-470-45836-5;;;2011
+3U7ZNFFA;journalArticle;2001;"Khan, Ishtiaq Rasool; Ohba, Ryoji";Mathematical Proof of Explicit Formulas for Tap-Coefficients of Taylor Series Based FIR Digital Differentiators;IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Sciences;;, 0916-8508;;2001-06-01
+465R9G8R;book;2011;"Burden, Richard L.; Faires, J. Douglas";Numerical analysis;;978-0-538-73351-9;;;2011
+JEQJN9M6;journalArticle;1974;"Anderssen, R. S.; Bloomfield, P.";Numerical differentiation procedures for non-exact data;Numerische Mathematik;;0945-3245;10.1007/BF01436965;1974-06-01
+TSQ8HDEU;book;1977;Berger, Melvyn S.;Nonlinearity and functional analysis: lectures on nonlinear problems in mathematical analysis;;978-0-12-090350-4;;;1977
+FS4TJWHD;book;2020;"Yang, Wŏn-yŏng; Cao, Wenwu; Kim, Jaekwon; Park, Kyung W.; Park, Ho Hyun; Joung, Jingon; Ro, Jong Suk; Lee, Han L.; Hong, Cheol Ho; Im, Taeho";Applied numerical methods using MATLAB®;;978-1-119-62680-0;;;2020
+AWBQHSKE;book;2012;Chapra, Steven C.;Applied numerical methods with MATLAB for engineers and scientists;;978-0-07-340110-2;;;2012
+M48SKF26;book;2020;Chapman, Stephen J.;Matlab® programming for engineers;;978-0-357-03039-4;;;2020
+XXYM7T2R;book;2019;Chaparro, Luis;Signals and systems using matlab;;978-0-12-814204-2;;;2019
+BEIGU4VH;book;2008;"Dahlquist, Germund; Björck, Åke";Numerical methods in scientific computing;;978-0-89871-644-3;;;2008
+I38IU68D;book;2013;"Faires, J. Douglas; Burden, Richard L.";Numerical methods;;978-0-495-11476-5;;;2013
+8BWDRERC;book;2007;;Numerical recipes: the art of scientific computing;;978-0-521-88068-8 978-0-521-88407-5 978-0-521-70685-8;;;2007
+9KTRGRY5;book;2010;"Kantz, Holger; Schreiber, Thomas";Nonlinear time series analysis;;978-0-511-75579-8 978-0-521-82150-6;;;2010
+ZQR7Q5DB;journalArticle;1999;"Khan, Ishtiaq Rasool; Ohba, Ryoji";Digital Differentiators Based on Taylor Series;IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Sciences;;, 0916-8508;;1999-12-25
+ZWM6HGTB;journalArticle;2012;"Chountasis, Spiros; Katsikis, Vasilios N.; Pappas, Dimitrios; Perperoglou, Aris";The whittaker smoother and the moore-penrose inverse in signal reconstruction;Applied Mathematical Sciences;;;;2012
+NGQJAEMG;journalArticle;2013;"Aydın, Dursun; Memmedli, Memmedağa; Omay, Rabia Ece";Smoothing Parameter Selection for Nonparametric Regression Using Smoothing Spline;European Journal of Pure and Applied Mathematics;;1307-5543;;2013-05-02
+MGQ4AS54;journalArticle;2018;"Feng, Jean; Simon, Noah";Gradient-based Regularization Parameter Selection for Problems With Nonsmooth Penalty Functions;Journal of Computational and Graphical Statistics;;1061-8600;10.1080/10618600.2017.1390470;2018-04-03
+C7ZW7PB4;journalArticle;2010;"Yeh, D. T.; Abel, J. S.; Smith, J. O.";"Automated Physical Modeling of Nonlinear Audio Circuits For Real-Time Audio Effects&#x2014;Part I: Theoretical Development";IEEE Transactions on Audio, Speech, and Language Processing;;1558-7916;;2010-05-01
+A3I6DTEH;journalArticle;2012;Yeh, David T.;"Automated Physical Modeling of Nonlinear Audio Circuits for Real-Time Audio Effects&#x2014;Part II: BJT and Vacuum Tube Examples";IEEE Transactions on Audio, Speech, and Language Processing;;1558-7916;10.1109/TASL.2011.2173677;2012-05-01
+J9Z8948D;journalArticle;2012;"Van Nort, Doug; Braasch, Jonas; Oliveros, Pauline";Sound texture recognition through dynamical systems modeling of empirical mode decomposition;The Journal of the Acoustical Society of America;;0001-4966;10.1121/1.4751535;2012-10-01
+8894B6ZI;journalArticle;2016;Medine, David;Dynamical Systems for Audio Synthesis: Embracing Nonlinearities and Delay-Free Loops;Applied Sciences;;;10.3390/app6050134;2016-05
+IPFZXBJ9;conferencePaper;2016;"Eichas, Felix; Zölzer, Udo";Modeling of an optocoupler-based audio dynamic range control circuit;Novel Optical Systems Design and Optimization XIX;;;10.1117/12.2235686;2016-09-30
+GG2F76MD;conferencePaper;2008;"Marchand, Sylvain; Depalle, Philippe";Generalization of the Derivative Analysis Method to Non-Stationary Sinusoidal Modeling;Digital Audio Effects (DAFx) Conference;;;;2008-09
+TK49RJVW;journalArticle;2016;"Nalini, N. J.; Palanivel, S.";Music emotion recognition: The combined evidence of MFCC and residual phase;Egyptian Informatics Journal;;1110-8665;10.1016/j.eij.2015.05.004;2016-03-01
+A2MK5XIJ;book;2016;"Goodfellow, Ian; Bengio, Yoshua; Courville, Aaron";Deep learning;;978-0-262-03561-3;;;2016
+DQJ4ZJ7H;journalArticle;2011;Härmä, Aki;Classification of Time–Frequency Regions in Stereo Audio;Journal of the Audio Engineering Society;;;;2011-11-22
+4K4E5IUF;journalArticle;1998;"Huang, Norden E.; Shen, Zheng; Long, Steven R.; Wu, Manli C.; Shih, Hsing H.; Zheng, Quanan; Yen, Nai-Chyuan; Tung, Chi Chao; Liu, Henry H.";The empirical mode decomposition and the Hilbert spectrum for nonlinear and non-stationary time series analysis;Proceedings of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences;;;10.1098/rspa.1998.0193;1998-03-08
+TJWVS8P5;journalArticle;2008;"Attoh-Okine, Nii; Barner, Kenneth; Bentil, Daniel; Zhang, Ray";The Empirical Mode Decomposition and the Hilbert-Huang Transform;EURASIP Journal on Advances in Signal Processing;;1687-6180;10.1155/2008/251518;2008-12
+DYQWC2AU;journalArticle;2014;"Chu, Peter C.; Fan, Chenwu; Huang, Norden";Derivative-optimized empirical mode decomposition for the Hilbert–Huang transform;Journal of Computational and Applied Mathematics;;03770427;10.1016/j.cam.2013.03.046;2014-03
+ASIVVB8G;journalArticle;2016;"Huang, Norden E.; Hu, Kun; Yang, Albert C. C.; Chang, Hsing-Chih; Jia, Deng; Liang, Wei-Kuang; Yeh, Jia Rong; Kao, Chu-Lan; Juan, Chi-Hung; Peng, Chung Kang; Meijer, Johanna H.; Wang, Yung-Hung; Long, Steven R.; Wu, Zhauhua";On Holo-Hilbert spectral analysis: a full informational spectral representation for nonlinear and non-stationary data;Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences;;;10.1098/rsta.2015.0206;2016-04-13
+ZR2MF5PF;conferencePaper;2015;Lewandowski, Marcin;A Short-Term Analysis of a Digital Sigma-Delta Modulator with Nonstationary Audio Signals;;;;;2015-05-06
+W5MRJALQ;conferencePaper;2010;"Bayer, D.; Balazs, P.; Jaillet, F.";On the Structure of the Phase around the Zeros of the Short-Time Fourier Transform;Proceedings of the DAGA 2010;;;;2010
+X3GFNH9X;journalArticle;2000;"Desainte-Catherine, Myriam; Marchand, Sylvain";High-Precision Fourier Analysis of Sounds Using Signal Derivatives;Journal of the Audio Engineering Society;;;;2000-07-01
+V62PF95R;journalArticle;2007;"Frei, Mark G; Osorio, Ivan";Intrinsic time-scale decomposition: time–frequency–energy analysis and real-time filtering of non-stationary signals;Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences;;;10.1098/rspa.2006.1761;2007-02-08
+HQ7TZXHT;conferencePaper;1998;Marchand, Sylvain;Improving Spectral Analysis Precision with an Enhanced Phase Vocoder using Signal Derivatives;Digital Audio Effects (DAFx) Workshop;;;;1998-11
+MSKMWFVW;journalArticle;2011;"Liu, Qingzhong; Sung, Andrew H.; Qiao, Mengyu";Derivative-based audio steganalysis;ACM Transactions on Multimedia Computing, Communications, and Applications;;1551-6857;10.1145/2000486.2000492;2011-09-02
+PJNDXHQV;journalArticle;2013;Korycki, Rafal;Time and spectral analysis methods with machine learning for the authentication of digital audio recordings;Forensic Science International;;1872-6283;10.1016/j.forsciint.2013.02.020;2013-07-10
+Z7IDGCGT;conferencePaper;2010;Cooper, Alan J.;Detecting Butt-Spliced Edits in Forensic Digital Audio Recordings;;;;;2010-06-17
+AFWGTTCD;conferencePaper;2012;"Grigoras, Catalin; Rappaport, Daniel; Smith, Jeff M.";Analytical Framework for Digital Audio Authentication;;;;;2012-06-01
+MB4R7XKW;conferencePaper;2017;"Vafeiadis, Anastasios; Votis, Konstantinos; Giakoumis, Dimitrios; Tzovaras, Dimitrios; Chen, Liming; Hamzaoui, Raouf";Audio-based Event Recognition System for Smart Homes;Audio-based event recognition system for smart homes;;;10.1109/UIC-ATC.2017.8397489;2017-08-08
+77J7R38I;journalArticle;2009;"Temko, Andrey; Nadeu, Climent";Acoustic event detection in meeting-room environments;Pattern Recognition Letters;;0167-8655;10.1016/j.patrec.2009.06.009;2009-10-01
+CIZI49VH;conferencePaper;2017;"Phan, H.; Koch, P.; Katzberg, F.; Maass, M.; Mazur, R.; McLoughlin, I.; Mertins, A.";What makes audio event detection harder than classification?;2017 25th European Signal Processing Conference (EUSIPCO);;;10.23919/EUSIPCO.2017.8081709;2017-08
+IICK5577;conferencePaper;2005;"Clavel, C.; Ehrette, T.; Richard, G.";Events Detection for an Audio-Based Surveillance System;2005 IEEE International Conference on Multimedia and Expo;;;10.1109/ICME.2005.1521669;2005-07
+FJFX5E3G;book;2011;"Rabiner, Lawrence R.; Schafer, Ronald W.";Theory and applications of digital speech processing;;978-0-13-603428-5;;;2011
+AU57WTH9;journalArticle;2017;"Tirumala, Sreenivas Sremath; Shahamiri, Seyed Reza; Garhwal, Abhimanyu Singh; Wang, Ruili";Speaker identification features extraction methods: A systematic review;Expert Systems with Applications;;0957-4174;https://doi.org/10.1016/j.eswa.2017.08.015;2017
+KQHNRS3A;conferencePaper;2001;Eronen, A.;Comparison of features for musical instrument recognition;Proceedings of the 2001 IEEE Workshop on the Applications of Signal Processing to Audio and Acoustics (Cat. No.01TH8575);;;10.1109/ASPAA.2001.969532;2001-10
+VSPEF6PN;journalArticle;2009;"Joder, C.; Essid, S.; Richard, G.";Temporal Integration for Audio Classification With Application to Musical Instrument Classification;IEEE Transactions on Audio, Speech, and Language Processing;;1558-7916;10.1109/TASL.2008.2007613;2009-01-01
+EVJPMRHD;journalArticle;2005;"Aucouturier, J.-; Pachet, F.; Sandler, M.";"""The way it Sounds"": timbre models for analysis and retrieval of music signals";IEEE Transactions on Multimedia;;1941-0077;10.1109/TMM.2005.858380;2005-12
+NCSJSHGR;journalArticle;1983;Kvasov, BI;Numerical differentiation and integration on the basis of interpolation parabolic splines, Chisl;Metody Mekh. Sploshn. Sredy;;;;1983
+YUUPU6XU;journalArticle;1983;"Vershinin, VV; Pavlov, NN";Approximation of derivatives by smoothing splines;Vychisl. Sistemy;;;;1983
+U8LRTQ2E;book;2015;"Chapra, Steven C.; Canale, Raymond P.";Numerical methods for engineers;;978-0-07-339792-4;;;2015
+8RX6B5S9;journalArticle;2003;"Khan, Ishtiaq Rasool; Ohba, Ryoji";Taylor series based finite difference approximations of higher-degree derivatives;Journal of Computational and Applied Mathematics;;0377-0427;https://doi.org/10.1016/S0377-0427(02)00816-6;2003
+VUK5QA4H;journalArticle;2003;"Khan, Ishtiaq Rasool; Ohba, Ryoji; Hozumi, Noriyuki";Mathematical proof of closed form expressions for finite difference approximations based on Taylor series;Journal of Computational and Applied Mathematics;;0377-0427;https://doi.org/10.1016/S0377-0427(02)00667-2;2003
+L9QQMYUM;journalArticle;1970;Sylvester, P.;Numerical Formation of Finite-Difference Operators (Correspondence);IEEE Transactions on Microwave Theory and Techniques;;1557-9670;10.1109/TMTT.1970.1127342;1970-10
+9FZAPPV9;journalArticle;2001;"Chan, C. P.; Ching, P. C.; Lee, Tan";Noisy speech recognition using de-noised multiresolution analysis acoustic features;The Journal of the Acoustical Society of America;;0001-4966;10.1121/1.1398054;2001-10-29
+UCH45IVV;journalArticle;1986;Furui, S.;Speaker-independent isolated word recognition using dynamic features of speech spectrum;IEEE Transactions on Acoustics, Speech, and Signal Processing;;0096-3518;10.1109/TASSP.1986.1164788;1986-02
+Z9NRURQW;book;1993;"Rabiner, Lawrence R.; Juang, B. H.";Fundamentals of speech recognition;;978-0-13-015157-5;;;1993
+GVUSPPJH;journalArticle;1992;"Ramesh, P.; Wilpon, J. G.; McGee, M. A.; Roe, D. B.; Lee, C. H.; Rabiner, L. R.";Speaker independent recognition of spontaneously spoken connected digits;Speech Communication;;0167-6393;https://doi.org/10.1016/0167-6393(92)90017-2;1992
+3BZ26W7M;journalArticle;1980;"Davis, S.; Mermelstein, P.";Comparison of parametric representations for monosyllabic word recognition in continuously spoken sentences;IEEE Transactions on Acoustics, Speech, and Signal Processing;;0096-3518;10.1109/TASSP.1980.1163420;1980-08
+RHMNTVWM;conferencePaper;1997;Foote, Jonathan T.;Content-based retrieval of music and audio;;;;10.1117/12.290336;1997-10-06
+HWTKA48P;journalArticle;2000;Logan, Beth;Mel Frequency Cepstral Coefficients For Music Modeling.;;;;10.5281/ZENODO.1416444;2000-10-23
+AZZF8MWR;conferencePaper;2003;"Pampalk, Elias; Dixon, Simon; Widmer, Gerhard";On the evaluation of perceptual similarity measures for music;of: Proceedings of the sixth international conference on digital audio effects (DAFx-03);;;;2003
+4ZHMPHVS;conferencePaper;2003;"Burred, Juan José; Lerch, Alexander";A hierarchical approach to automatic musical genre classification;Proceedings of the 6th international conference on digital audio effects;;;;2003
+IRM2V5EX;journalArticle;2019;"Grondin, François; Michaud, François";Lightweight and optimized sound source localization and tracking methods for open and closed microphone array configurations;Robotics and Autonomous Systems;;0921-8890;https://doi.org/10.1016/j.robot.2019.01.002;2019
+DELM4K7K;book;2009;"Wölfel, Matthias; McDonough, John";Distant speech recognition;;;;;2009
+ZGZ657AF;journalArticle;2012;"Kumatani, Kenichi; McDonough, John; Raj, Bhiksha";Microphone array processing for distant speech recognition: From close-talking microphones to far-field sensors;IEEE Signal Processing Magazine;;;;2012
+W9MHEQMU;journalArticle;2012;"Nesta, Francesco; Omologo, Maurizio";Generalized State Coherence Transform for Multidimensional TDOA Estimation of Multiple Sources;IEEE Transactions on Audio, Speech, and Language Processing;;1558-7924;10.1109/TASL.2011.2160168;2012-01
+RBRIVSP8;journalArticle;2010;"Nakadai, Kazuhiro; Takahashi, Toru; Okuno, Hiroshi G.; Nakajima, Hirofumi; Hasegawa, Yuji; Tsujino, Hiroshi";Design and Implementation of Robot Audition System 'HARK' — Open Source Software for Listening to Three Simultaneous Speakers;Advanced Robotics;;0169-1864;10.1163/016918610X493561;2010-01-01
+Q9Q7GMBN;bookSection;2010;"Rafaely, Boaz; Peled, Yotam; Agmon, Morag; Khaykin, Dima; Fisher, Etan";Spherical Microphone Array Beamforming;Speech Processing in Modern Communication: Challenges and Perspectives;978-3-642-11130-3;;;2010
+GHA76MD3;journalArticle;2013;"Marti, Amparo; Cobos, Maximo; Lopez, Jose J.; Escolano, Jose";A steered response power iterative method for high-accuracy acoustic source localization;The Journal of the Acoustical Society of America;;0001-4966;10.1121/1.4820885;2013-10-01
+EV9DFG5G;journalArticle;1988;Fornberg, Bengt;Generation of finite difference formulas on arbitrarily spaced grids;Mathematics of Computation;;0025-5718, 1088-6842;10.1090/S0025-5718-1988-0935077-0;1988
+ZPX9CREC;conferencePaper;2001;Albrecht, H.H.;A family of cosine-sum windows for high-resolution measurements;2001 IEEE International Conference on Acoustics, Speech, and Signal Processing. Proceedings (Cat. No.01CH37221);;;10.1109/ICASSP.2001.940309;2001-05
+94D743XF;thesis;2020;Wagner, Jakub;Regularised differentiation of measurement data in systems for healthcare-oriented monitoring of elderly persons;;;;;2020-06-26
