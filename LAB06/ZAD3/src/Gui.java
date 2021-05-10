@@ -58,9 +58,6 @@ public class Gui extends JPanel {
         frame.getContentPane();
         frame.setVisible(true);
 
-
-
-
     }
 
     private void actionPerformed(ActionEvent actionEvent) {
@@ -165,6 +162,4 @@ public class Gui extends JPanel {
     public static void main (String[] args) {
         new Gui();
     }
-
-
 }
