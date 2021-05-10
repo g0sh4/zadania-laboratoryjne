@@ -47,6 +47,7 @@ public class MainGui extends JPanel {
 
                 try{
                     double parseDouble = Double.parseDouble(wpisanaWartosc);
+                    JOptionPane.showMessageDialog(null, "Podano poprawną wartość numeryczną: "+parseDouble);
                     tekstField.setText(wpisanaWartosc);
                     break;
                 }catch (Exception exception){
