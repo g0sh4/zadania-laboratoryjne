@@ -58,9 +58,9 @@ public class Gui extends JPanel{
                 if(e.getKeyCode() == KeyEvent.VK_ENTER){
                     if (textField.getText().equals("")) {
 
-                        //table = zapasowaTable;
+                        //table = backupTable;
                         messages.setText("Nie podano żadnej wartości filtrującej.");
-                        String filtrujacaWartosc = textField.getText();
+                        String filtrujacaWartosc = " ";
                         sortValues = new TableRowSorter<>(table.getModel());
                         sortValues.setRowFilter(RowFilter.regexFilter(filtrujacaWartosc));
                         table.setRowSorter(sortValues);
@@ -96,6 +96,11 @@ public class Gui extends JPanel{
             if (textField.getText().hashCode() == 0) {
                 table = backupTable;
                 messages.setText("Nie podano żadnej wartości filtrującej.");
+                String filtrujacaWartosc = " ";
+                sortValues = new TableRowSorter<>(table.getModel());
+                sortValues.setRowFilter(RowFilter.regexFilter(filtrujacaWartosc));
+                table.setRowSorter(sortValues);
+
 
             } else {
                 messages.setText("");
