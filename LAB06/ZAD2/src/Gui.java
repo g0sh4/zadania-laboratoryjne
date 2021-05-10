@@ -8,11 +8,11 @@ import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
 
 public class Gui extends JPanel{
-    private final JTextField textField;
-    private final JTextField textField1;
+    private  JTextField textField;
+    private  JTextField textField1;
     private JTable backupTable;
     private JTable table;
-    private final JLabel messages;
+    private  JLabel messages;
     private TableRowSorter<TableModel> sortValues;
     private JScrollPane sp;
 
