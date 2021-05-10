@@ -19,7 +19,6 @@ public class File {
 
         for(char charInChars : chars){
             switch (charInChars){
-                // Eliminacja przecinka i średnika napotkanego w trakcie:
                 case (char)59:
                 case (char)44:
 
@@ -31,7 +30,6 @@ public class File {
                         nCell.append(charInChars);
                     }
                     break;
-                // Cudzysłów pojedynczy i podwójny
                 case (char) 39:
                 case (char) 34:
                     cite= !cite;
