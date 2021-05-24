@@ -1,12 +1,12 @@
 public class ZliczanieCałkowite implements Runnable{
-    public int ile;
-    public int inkrementacja;
+    public int liczba;
+    public int wartoscInkrementacji;
 
 
 
-    ZliczanieCałkowite(int ile, int inkrementacja){
-        this.ile=ile;
-        this.inkrementacja = inkrementacja;
+    ZliczanieCałkowite(int liczba, int wartoscInkrementacji){
+        this.liczba=liczba;
+        this.wartoscInkrementacji = wartoscInkrementacji;
 
     }
 
@@ -27,7 +27,6 @@ public class ZliczanieCałkowite implements Runnable{
                 if(Integer.parseInt(String.valueOf(Gui.inkrementacja.getSelectedItem()))==80 ){
                     Gui.mnoznik =750;
                 }
-
                 if(Integer.parseInt(String.valueOf(Gui.inkrementacja.getSelectedItem()))==120 ){
                     Gui.mnoznik =500;
                 }
@@ -49,17 +48,15 @@ public class ZliczanieCałkowite implements Runnable{
                 if(Integer.parseInt(String.valueOf(Gui.inkrementacja.getSelectedItem()))==240 ){
                     Gui.mnoznik =250;
                 }
-
-
                 if(Integer.parseInt(String.valueOf(Gui.inkrementacja.getSelectedItem()))==300 ){
                     Gui.mnoznik =200;
                 }
                 Thread.sleep(Gui.mnoznik);
-                ile = Integer.parseInt(String.valueOf(Gui.wartoscPoczatkowa));
-                System.out.println(Gui.wartosc );
+                liczba = Integer.parseInt(String.valueOf(Gui.wartoscPoczatkowa));
+                //System.out.println(Gui.wartosc );
                 Gui.wartosc = Integer.parseInt(String.valueOf(Gui.inkrementacja.getSelectedItem())) ;
-                inkrementacja = Gui.wartosc;
-                Gui.textField.setText(String.valueOf(ile));
+                wartoscInkrementacji = Gui.wartosc;
+                Gui.textField.setText(String.valueOf(liczba));
                 Gui.wartoscPoczatkowa++;
             } catch (InterruptedException e) {
                 e.printStackTrace( );
