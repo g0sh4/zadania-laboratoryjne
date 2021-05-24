@@ -15,6 +15,7 @@ public class ZliczanieCałkowite implements Runnable{
     public void run() {
         while (Gui.running) {
             try {
+                //mnożnik milisekund na sekundy
                 if(Integer.parseInt(String.valueOf(Gui.inkrementacja.getSelectedItem()))==40){
                     Gui.mnoznik =1500;
                 }

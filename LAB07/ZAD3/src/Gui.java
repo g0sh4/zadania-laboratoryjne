@@ -18,7 +18,7 @@ public class Gui {
     public Gui(){
         JPanel panel1 = new JPanel();
         panel1.setLayout(new GridLayout(1,2  ));
-        opisListy = new JLabel( "Wybór liczby inkrementacji na minutę: " );
+        opisListy = new JLabel( "      Wybór liczby inkrementacji na minutę: " );
         inkrementacja = new JComboBox<>();
         inkrementacja.setEditable(true);
         inkrementacja.addItem("40");
@@ -74,7 +74,7 @@ public class Gui {
         przyciskPierwszy.setText("STOP");
         running = true;
         wartosc = Integer.parseInt(String.valueOf(inkrementacja.getSelectedItem()));
-        System.out.println(inkrementacja.getSelectedItem());
+        //System.out.println(inkrementacja.getSelectedItem());
         ZliczanieCałkowite zliczanieCałkowite = new ZliczanieCałkowite(wartoscPoczatkowa, wartosc );
         thread = new Thread( zliczanieCałkowite );
         thread.start();
